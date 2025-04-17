@@ -111,6 +111,7 @@ The dataset used in this project includes minute-level measurements of household
 - Python
 - Scikit-learn
 - Pandas
+- numpy
 - Matplotlib/Seaborn
 
 ## Project Deliverables
@@ -129,8 +130,9 @@ The following Python libraries are required for this project:
 - `matplotlib`
 - `seaborn`
 - `scikit-learn`
-- `joblib`
+- `joblib`/`pickle`
 - `plotly`
+- `streamlit`
 
 ## Future Scope
 - **Incorporation of External Data**: Integrate weather data, seasonal patterns, or economic indicators for better forecasting accuracy.
